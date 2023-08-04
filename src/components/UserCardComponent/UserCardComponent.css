@@ -1,0 +1,16 @@
+.card{
+    margin-left: 0px;
+    color: rgb(29, 128, 248) !important;
+    margin-top: 20px !important;
+    border: 1px solid rgb(102, 167, 246) !important;
+    border-radius: 6px !important;
+    box-shadow: 4px 4px 1px rgb(177, 207, 244);
+    color: rgb(102, 167, 246);
+    margin-right: 10px;
+ }
+
+img{
+    display: flex;
+    justify-content: left;
+    width: 100px;
+}
